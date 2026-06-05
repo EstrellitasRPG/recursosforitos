@@ -1,6 +1,6 @@
 .All {width: 400px; height: auto; border: solid 15px #E1E1E1; background: #FEFFFE;}
 .AllT {width: 350px; height: 50px; font-family: All; color: #176F46; font-size: 50px; position: relative; top: 45px;}
-@font-face {font-family: 'All'; src: url('https://dl.dropbox.com/s/gidj89qnjaim0hf/Crimson%20Foam%20Font.ttf');src: url('https://dl.dropbox.com/s/gidj89qnjaim0hf/Crimson%20Foam%20Font.ttf') format('truetype'); font-weight: normal;font-style: normal;}
+@font-face {font-family: 'All'; src: url('https://cdn.jsdelivr.net/gh/EstrellitasRPG/fuentes@main/Crimson%20Foam%20Font(1).ttf'); format('truetype'); font-weight: normal;font-style: normal;}
 .AllC {width: 250px; height: 20px; border-bottom: 1px solid #176F46;}
 .AllS {width: 350px; height: 20px; font-size: 10px; font-family: 'Space Grotesk', sans-serif; color: #AAAAAA; position: relative; top: 3px; letter-spacing: 3px;}
 .AllTx {width: 360px; height: auto; font-family: 'Quicksand', sans-serif; text-align: justify; font-size: 12px; position: relative; bottom: 3px; color: #000;}
